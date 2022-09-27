@@ -1,2 +1,7 @@
-# Mi_-primer_repositorio
- “Este es mi primer repositorio de trabajo del diplomado, y lo utilizaré para aprender cómo funciona GitHub.
+# Este es mi primer proyecto en GitHub
+
+## Estamos modificando el archivo ReadMe
+
+### Haciendo algunas pruebas ingeniosas
+
+Este es un repositorio creado a modo de ejemplo para el manual de GitHub desktop, es un gran día para aprender a usar esta herramienta.
